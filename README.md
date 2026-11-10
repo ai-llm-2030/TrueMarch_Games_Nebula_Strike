@@ -16,6 +16,13 @@
   <img src="assets/screenshot-play.png" alt="Nebula Strike — gameplay" width="820">
 </p>
 
+## More screenshots
+
+<table>
+<tr><td width="50%"><img src="assets/screenshot-map.png" alt="The star map"><br><sub>The star map</sub></td><td width="50%"><img src="assets/screenshot-hangar.png" alt="The Hangar: upgrades bought with stars"><br><sub>The Hangar: upgrades bought with stars</sub></td></tr>
+<tr><td width="50%"><img src="assets/screenshot-stage1.png" alt="Stage 1-1"><br><sub>Stage 1-1</sub></td><td width="50%"><img src="assets/screenshot-late.png" alt="Later in the run"><br><sub>Later in the run</sub></td></tr>
+</table>
+
 ## Controls
 
 | Keys | Action |
